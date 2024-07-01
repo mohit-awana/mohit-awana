@@ -1,4 +1,4 @@
-## <div align="center"><b> 👋🏻 Hi everyone, I’m Mohit! 👩🏼‍💻 </b> </div>
+## <div align="center"><b> 👋🏻 Hi everyone, I’m Mohit! 👨🏽‍💻 </b> </div>
   
 I’m interested in <b>data science, data analysis, deep learning</b> and <b> all data things</b>. Python, sports, and insights
 
